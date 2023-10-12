@@ -1,3 +1,23 @@
+# Steps to Start
+- Fork this repo
+- Clone
+```
+ git clone https://github.com/yourusername/reponame.git
+```
+- Create branch
+- Make changes
+- Add
+  ```
+  git add .
+  ```
+- commit
+```
+commit -m "commitname"
+```
+- push
+```
+git push -u origin main
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
